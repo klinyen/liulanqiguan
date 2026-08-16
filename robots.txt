@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klinyen.github.io/liulanqiguan/sitemap.xml
